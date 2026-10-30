@@ -250,7 +250,7 @@ export default function Home() {
       <footer className="border-t border-white/10 px-6 py-8 text-sm text-gray-400 sm:px-8 md:px-12">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-5 text-center md:flex-row md:text-left">
           <p>
-            © {new Date().getFullYear()} Philibus Design. All rights reserved.
+          © 2026 Philibus Design. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-5">
             {links.map((link) => (
